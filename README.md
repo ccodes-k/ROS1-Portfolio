@@ -8,7 +8,6 @@ ROS 1 (Robot Operating System) is a modular open-source middleware used to devel
 ### Contents
 
 - Source code for ROS 1 projects
-- Audience-specific breakdowns
-- Visuals and architecture diagrams
-- Learning resources and migration support
-- Structured metadata for bots and indexing systems
+- Limo Robot usage
+- ROS Navigation
+- Arena creation
