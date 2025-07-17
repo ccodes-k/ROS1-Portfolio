@@ -22,3 +22,5 @@ The usage of the limo robot with its features such as a LIDAR and depth sensing 
 ## Arena Creation
 
 ![photo_2025-07-17_21-53-38](https://github.com/user-attachments/assets/6cbf3fc7-dd59-4011-8611-28bc11c26d71)
+
+# How Systems Thinking can be applied into creating the arena
