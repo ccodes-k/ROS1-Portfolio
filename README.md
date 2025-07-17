@@ -10,7 +10,7 @@ ROS 1 (Robot Operating System) is a modular open-source middleware used to devel
 - Source code for ROS 1 projects
 - Limo Robot usage
 - ROS Navigation
-- Arena creation
+- Arena Creation
 
 ## Limo Robot
 
@@ -18,3 +18,7 @@ ROS 1 (Robot Operating System) is a modular open-source middleware used to devel
 - RViz visualization
 - Nvidia Jetson Nano
 The usage of the limo robot with its features such as a LIDAR and depth sensing camera helps with its own survival and reaching a specific goal.
+
+## Arena Creation
+
+![photo_2025-07-17_21-53-38](https://github.com/user-attachments/assets/6cbf3fc7-dd59-4011-8611-28bc11c26d71)
