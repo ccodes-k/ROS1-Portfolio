@@ -3,7 +3,7 @@
 
 ## Overview
 
-ROS 1 (Robot Operating System) is a modular open-source middleware used to develop, simulate, and control robotic systems. This repository demonstrates ROS capabilities through projects like TurtleBot navigation and Gazebo simulations. In this project, Limo Robot uses ROS and its features to naviagte through obstacles in the arena with varying complexities.
+ROS 1 (Robot Operating System) is a modular open-source middleware used to develop, simulate, and control robotic systems. This repository demonstrates ROS capabilities through projects like TurtleBot navigation and Gazebo simulations. In this project, Limo Robot uses ROS and its features to navigate through obstacles in the arena with varying complexities.
 
 ### Contents
 
@@ -17,8 +17,17 @@ ROS 1 (Robot Operating System) is a modular open-source middleware used to devel
 - LiDAR and depth vision-based sensing (YDLIDAR XL2 & Orbbec Dabai)
 - RViz visualization
 - Nvidia Jetson Nano
-
+<br>
 The usage of the limo robot with its features such as a LiDAR and depth sensing camera helps with its own survival and reaching a specific goal.
+
+## ROS Navigation
+
+![photo_2025-07-18_22-53-16](https://github.com/user-attachments/assets/8a10a491-864b-4765-a0ba-12794102c0b0)
+![ph![photo_2025-07-18_22-53-35](https://github.com/user-attachments/assets/8fd0f6b8-9c90-4fb2-b808-d83e9ad269f7)
+oto_2025-07-18_22-53-26](https://github.com/user-attachments/assets/ba4e3073-527f-42fd-b9cd-c7b0edcb75eb)
+<br>
+Examples of waypoint coordinates in the arena to be saved into the Limo Robot as our goal for arena navigation.
+
 
 ## Arena Creation
 
