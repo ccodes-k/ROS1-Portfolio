@@ -26,8 +26,8 @@ The usage of the limo robot with its features such as a LiDAR and depth sensing 
 
 ### How Systems Approach can be applied into creating the arena
 1. Identifying & Understanding Problems and Opportunities<br>
-    <t>Application to Arena Creation:<br>
-        <t>Define the purpose of the arena (e.g., testing robot navigation, obstacle avoidance, SLAM).<br>
+    \tApplication to Arena Creation:<br>
+        \t\tDefine the purpose of the arena (e.g., testing robot navigation, obstacle avoidance, SLAM).<br>
         <t>Identify requirements from stakeholders (e.g., researchers, students, engineers).<br>
         <t>Recognize constraints like space availability, budget, safety, and types of robots.<br>
         <t>Example: The robot struggles with uneven surfaces or tight corners—highlighting a need to include such elements in the arena for better testing.<br>
