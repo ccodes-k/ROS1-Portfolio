@@ -27,24 +27,24 @@ The usage of the limo robot with its features such as a LiDAR and depth sensing 
 ### How Systems Approach can be applied into creating the arena
 1. Identifying & Understanding Problems and Opportunities<br>
     &nbsp;Application to Arena Creation:<br>
-        &nbsp;&nbsp;Define the purpose of the arena (e.g., testing robot navigation, obstacle avoidance, SLAM).<br>
-        &nbsp;&nbsp;Identify requirements from stakeholders (e.g., researchers, students, engineers).<br>
-        &nbsp;&nbsp;Recognize constraints like space availability, budget, safety, and types of robots.<br>
-        &nbsp;&nbsp;Example: The robot struggles with uneven surfaces or tight corners—highlighting a need to include such elements in the arena for better testing.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Define the purpose of the arena (e.g., testing robot navigation, obstacle avoidance, SLAM).<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Identify requirements from stakeholders (e.g., researchers, students, engineers).<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Recognize constraints like space availability, budget, safety, and types of robots.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Example: The robot struggles with uneven surfaces or tight corners—highlighting a need to include such elements in the arena for better testing.<br>
 
 2. Synthesizing Possible Solutions<br>
     &nbsp;Application to Arena Creation:<br>
-        &nbsp;&nbsp;Brainstorm different layouts and obstacle types (ramps, tunnels, rough terrain, markers).<br>
-        &nbsp;&nbsp;Consider materials for construction (wood, foam, 3D-printed parts).<br>
-        &nbsp;&nbsp;Think about how to make the arena modular or reconfigurable for different tests.<br>
-        &nbsp;&nbsp;Example: Propose zones with different difficulty levels—basic navigation, dynamic obstacles, or line following.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Brainstorm different layouts and obstacle types (ramps, tunnels, rough terrain, markers).<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Consider materials for construction (wood, foam, 3D-printed parts).<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Think about how to make the arena modular or reconfigurable for different tests.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Example: Propose zones with different difficulty levels—basic navigation, dynamic obstacles, or line following.<br>
 
 3. Analysis & Selection between Alternative Solutions<br>
    &nbsp;Application to Arena Creation:<br>
-        &nbsp;&nbsp;Evaluate each proposed layout for cost, realism, challenge level, safety, and learning objectives.<br>
-        &nbsp;&nbsp;Use simulations or scaled models to test how effective each design is for robot tasks.<br>
-        &nbsp;&nbsp;Choose the design that offers the best balance between challenge and feasibility.<br>
-        &nbsp;&nbsp;Example: Select a hexagonal layout over a linear one because it allows for more complex path planning.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Evaluate each proposed layout for cost, realism, challenge level, safety, and learning objectives.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Use simulations or scaled models to test how effective each design is for robot tasks.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Choose the design that offers the best balance between challenge and feasibility.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Example: Select a hexagonal layout over a linear one because it allows for more complex path planning.<br>
 
 4. Implementing and Proving a Solution<br>
     &nbsp;Application to Arena Creation:<br>
@@ -55,10 +55,10 @@ The usage of the limo robot with its features such as a LiDAR and depth sensing 
 
 5. Deploying, Using, & Sustaining Systems to Solve Problems<br>
     &nbsp;Application to Arena Creation:<br>
-        &nbsp;&nbsp;Begin regular use of the arena for training, experimentation, or competitions.<br>
-        &nbsp;&nbsp;Collect feedback from users and iterate the design (e.g., add moving obstacles or tracking cameras).<br>
-        &nbsp;&nbsp;Develop a maintenance plan to keep the arena in good condition.<br>
-        &nbsp;&nbsp;Example: Replace worn floor markings or update the layout for new robot capabilities.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Begin regular use of the arena for training, experimentation, or competitions.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Collect feedback from users and iterate the design (e.g., add moving obstacles or tracking cameras).<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Develop a maintenance plan to keep the arena in good condition.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Example: Replace worn floor markings or update the layout for new robot capabilities.<br>
 
 
 ## Socials
