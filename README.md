@@ -17,7 +17,8 @@ ROS 1 (Robot Operating System) is a modular open-source middleware used to devel
 - LiDAR and depth vision-based sensing (YDLIDAR XL2 & Orbbec Dabai)
 - RViz visualization
 - Nvidia Jetson Nano
-The usage of the limo robot with its features such as a LIDAR and depth sensing camera helps with its own survival and reaching a specific goal.
+
+The usage of the limo robot with its features such as a LiDAR and depth sensing camera helps with its own survival and reaching a specific goal.
 
 ## Arena Creation
 
@@ -25,6 +26,7 @@ The usage of the limo robot with its features such as a LIDAR and depth sensing 
 
 ### How Systems Approach can be applied into creating the arena
 Identifying and exploring problems or opportunities in detail.
+Provides solutions that are realizable within time, cost, and risk constraints.
 Defines what the system is used for
 Function is distinct from behavior
 Drives realizable system descriptions
