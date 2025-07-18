@@ -26,18 +26,18 @@ The usage of the limo robot with its features such as a LiDAR and depth sensing 
 
 ### How Systems Approach can be applied into creating the arena
 1. Identifying & Understanding Problems and Opportunities<br>
-    \tApplication to Arena Creation:<br>
-        \t\tDefine the purpose of the arena (e.g., testing robot navigation, obstacle avoidance, SLAM).<br>
-        <t>Identify requirements from stakeholders (e.g., researchers, students, engineers).<br>
-        <t>Recognize constraints like space availability, budget, safety, and types of robots.<br>
-        <t>Example: The robot struggles with uneven surfaces or tight corners—highlighting a need to include such elements in the arena for better testing.<br>
+    <\t>Application to Arena Creation:<br>
+        <\t><\t>Define the purpose of the arena (e.g., testing robot navigation, obstacle avoidance, SLAM).<br>
+        <\t><\t>Identify requirements from stakeholders (e.g., researchers, students, engineers).<br>
+        <\t><\t>Recognize constraints like space availability, budget, safety, and types of robots.<br>
+        <\t><\t>Example: The robot struggles with uneven surfaces or tight corners—highlighting a need to include such elements in the arena for better testing.<br>
 
 2. Synthesizing Possible Solutions<br>
-    <t>Application to Arena Creation:<br>
-        <t>Brainstorm different layouts and obstacle types (ramps, tunnels, rough terrain, markers).<br>
-        <t>Consider materials for construction (wood, foam, 3D-printed parts).<br>
-        <t>Think about how to make the arena modular or reconfigurable for different tests.<br>
-        <t>Example: Propose zones with different difficulty levels—basic navigation, dynamic obstacles, or line following.<br>
+    <\t>Application to Arena Creation:<br>
+        <\t><\t>Brainstorm different layouts and obstacle types (ramps, tunnels, rough terrain, markers).<br>
+        <\t><\t>Consider materials for construction (wood, foam, 3D-printed parts).<br>
+        <\t><\t>Think about how to make the arena modular or reconfigurable for different tests.<br>
+        <\t><\t>Example: Propose zones with different difficulty levels—basic navigation, dynamic obstacles, or line following.<br>
 
 3. Analysis & Selection between Alternative Solutions<br>
     <t>Application to Arena Creation:<br>
