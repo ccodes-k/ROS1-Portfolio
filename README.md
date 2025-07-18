@@ -26,11 +26,11 @@ The usage of the limo robot with its features such as a LiDAR and depth sensing 
 
 ### How Systems Approach can be applied into creating the arena
 <p>Identifying and exploring problems or opportunities in detail.</p>
-- Provides solutions that are realizable within time, cost, and risk constraints.
-  Defines what the system is used for
-  Function is distinct from behavior
-  Drives realizable system descriptions
-  Critical to aligning with stakeholder goal
+<p>Provides solutions that are realizable within time, cost, and risk constraints.</p>
+<p>Defines what the system is used for</p>
+<p>Function is distinct from behavior</p>
+<p>Drives realizable system descriptions</p>
+<p>Critical to aligning with stakeholder goal</p>
 
 
 
