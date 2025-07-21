@@ -22,6 +22,8 @@ The usage of the limo robot with its features such as a LiDAR and depth sensing 
 
 ## ROS Navigation
 
+When first mapping the surroundings, we need to launch the camera and LiDAR sensor in the Limo Robot. Next, we need to launch orbbec to able to save the map. After saving, we can proceed with telling the limo where we want the goal to be.
+
 ![photo_2025-07-18_22-53-16](https://github.com/user-attachments/assets/8a10a491-864b-4765-a0ba-12794102c0b0)
 ![ph![photo_2025-07-18_22-53-35](https://github.com/user-attachments/assets/8fd0f6b8-9c90-4fb2-b808-d83e9ad269f7)
 oto_2025-07-18_22-53-26](https://github.com/user-attachments/assets/ba4e3073-527f-42fd-b9cd-c7b0edcb75eb)
