@@ -30,6 +30,22 @@ oto_2025-07-18_22-53-26](https://github.com/user-attachments/assets/ba4e3073-527
 <br>
 Examples of waypoint coordinates in the arena to be saved into the Limo Robot as our goal for arena navigation.
 
+How is Systems Approach applied to mapping?
+1. Identifying & Understanding Problems and Opportunities<br>
+&nbsp;The identified problem is which mapping method is best fit for our use. Gmapping, Cartographer or Rtabmap. This gives us our 3 opportunities which is the 3 methods.
+
+2. Synthesizing Possible Solutions
+&nbsp;We start to test the 3 methods see which is best for us.
+
+3. Analysis & Selection between Alternative Solutions<br>
+&nbsp;We do trade offs between the 3 methods. What is the pros and cons of each of the mapping. In conclusion, we feel that Rtabmap is the best for our use.
+
+4. Implementing and Proving a Solution<br>
+&nbsp;We use Rtabmap to prove that this mapping method helps to best navigate the arenas by testing in our own arena.
+
+6. Deploying, Using, & Sustaining Systems to Solve Problems<br>
+&nbsp;When we are able to complete navigating thorugh our arena, we use to solve the other arenas made by other teams.
+
 
 ## Arena Creation
 
