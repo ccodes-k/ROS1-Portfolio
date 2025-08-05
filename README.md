@@ -34,7 +34,7 @@ How is Systems Approach applied to mapping?
 1. Identifying & Understanding Problems and Opportunities<br>
 &nbsp;The identified problem is which mapping method is best fit for our use. Gmapping, Cartographer or Rtabmap. This gives us our 3 opportunities which is the 3 methods.
 
-2. Synthesizing Possible Solutions
+2. Synthesizing Possible Solutions<br>
 &nbsp;We start to test the 3 methods see which is best for us.
 
 3. Analysis & Selection between Alternative Solutions<br>
